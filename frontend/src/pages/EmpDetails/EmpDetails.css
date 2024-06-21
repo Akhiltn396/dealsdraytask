@@ -1,0 +1,42 @@
+.tableContainer {
+    padding: 20px;
+    margin: auto;
+    width: 90%;
+    border-collapse: collapse;
+  }
+
+  button{
+    background-color: rgb(144, 123, 123);
+    border: none;
+    padding: 8px 20px;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .employeeTable {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 40px;
+  }
+  
+  .employeeTable th, .employeeTable td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .employeeTable th {
+    background-color: #f2f2f2;
+  }
+  
+  .employeeTable img {
+    border-radius: 50%;
+  }
+  
+  .employeeTable button {
+    margin: 0 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+  }
+  
